@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CodingChallenge</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment 01</string>
+    <string name="app_id">a0a260086c4072d179e40f4b83eb3e78</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_number">Select your number</string>
+    <string name="select_time">Select Time</string>
+    <string name="pizza">Pizza</string>
+    <string name="hamburger">Hamburger</string>
+    <string name="vegi">Vegi Food</string>
+    <string name="chicken">Chicken</string>
+    <string name="spaghetti">Spaghetti</string>
+    <string name="select_food">Select your favorite food</string>
+    <string name="date_picker_result_value">Year: %1$s Month: %2$s Day: %3$s</string>
+    <string name="time_picker_result_value">Time: %1$d:%2$d</string>
+    <string name="number_picker_result_value">Number: %s</string>
+
+    <string name="date_user">User Date</string>
+    <string name="time_user">User Time</string>
+    <string name="name_user">User Name</string>
+    <string name="food_user">User Food</string>
+    <string name="number_user">User Number</string>
+    <string name="no_data">No Weather to show</string>
+    <string name="date">Select Date</string>
+    <string name="time">Select time</string>
+    <string name="number">Select Number</string>
+    <string name="save">Save</string>
+    <string name="user_information">User Information</string>
+    <string name="user_contact">User Contacts</string>
+    <string name="user_weather">Weather</string>
+    <string name="user_form">User Form</string>
+
+</resources>
